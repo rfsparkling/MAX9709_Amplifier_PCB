@@ -1,4 +1,4 @@
-![layout preview](https://github.com/rfsparkling/blob/master/MAX9709_Amplifier_PCB/MAX9709_screenshot.png)
+![layout preview](https://github.com/rfsparkling/MAX9709_Amplifier_PCB/blob/master/MAX9709_screenshot.png)
 
 MAX9709 50W, Filterless, Spread-Spectrum, Stereo/Mono, Class D Amplifier
 This is my MAX9709 amplifier project, started at 2009. Made my own PCB to evaluate the Class-D audio amplifier IC. 
